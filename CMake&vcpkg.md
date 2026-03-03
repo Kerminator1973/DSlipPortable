@@ -61,8 +61,7 @@ cmake ..
 cmake --build .
 ```
    
-7. [Ссылка на установку Boost посредсвом vcpkg] (https://github.com/MariaVor6/DSlipPortable/blob/main/DownloadBoost.md)
+7. [Ссылка на установку Boost посредсвом vcpkg] (https://github.com/MariaVor6/DSlipPortable/blob/main/DownloadBoost%26splog.md)
 
 
-
-[Подробная документация здесь] (https://learn.microsoft.com/ru-ru/vcpkg/users/buildsystems/cmake-integration) 
+[Подробная документация здесь об взаимосвязи CMake & vcpkg] (https://learn.microsoft.com/ru-ru/vcpkg/users/buildsystems/cmake-integration) 
